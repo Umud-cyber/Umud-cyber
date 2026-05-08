@@ -9,9 +9,10 @@
 <br/>
 
 <p>
-  
-  <img src="https://img.shields.io/badge/GPA-95.73%2F100-2d9e87?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top_3-In_Department-gold?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPA-95.73%2F100-00D1B2?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top_3-In_Department-FFD700?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metro_Hackathon-WINNER-7C4DFF?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon-LOVER-FF2D55?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p>
