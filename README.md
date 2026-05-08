@@ -258,24 +258,3 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Umud-cyber/Umud-cyber/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Umud-cyber/Umud-cyber/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Umud-cyber/Umud-cyber/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=2D9E87&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+👋;Let's+connect+and+build+something+secure!+🛡️;uagayev230%40gmail.com)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d9e87,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
