@@ -70,7 +70,7 @@
 |:---:|:---|:---|
 | 🥉 | **3rd Place** – Baku Metro Hackathon 2026 | Smart Transport AI System |
 | 🎖️ | **Top 11%** – Bakcell Information Security | 200 of 1,800+ applicants |
-| 🎓 | **Full Scholarship** – Holberton School | Merit-based selection |
+| 🎓 | **Scholarship** – Holberton School | Merit-based selection |
 | 🧮 | **National Math Olympiad** Finalist | Republic-level competition |
 | ✅ | **Azerbaijan Cybersecurity Center (AKM)** | Official training program participant (8th cohort) |
 | 🔐 | **Google Cybersecurity Professional** | 4SIM Initiative |
