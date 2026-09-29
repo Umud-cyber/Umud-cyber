@@ -36,7 +36,7 @@
 | 👤 **Name** | Umud Agayev |
 | 🎓 **University** | UNEC – B.Sc. Information Security (taught in English) |
 | 🏫 **Scholarship** | Holberton School – Cyber Security (Full Scholarship) |
-| 📊 **GPA** | 95.73 / 100 |
+| 📊 **GPA** | 97 / 100 |
 | 📝 **Entry Score** | 644.1 / 700 (National University Entrance Exam) |
 | 📍 **Location** | Baku, Azerbaijan 🇦🇿 |
 | 🗣️ **Languages** | Azerbaijani 🇦🇿 · English 🇬🇧 (B2) · Turkish 🇹🇷 · Deutsch 🇩🇪 (A1) |
