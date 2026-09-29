@@ -4,13 +4,12 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=2D9E87&center=true&vCenter=true&width=750&lines=🛡️+Offensive+%26+Defensive+Security+Student;🔐+Penetration+Tester+in+Training;🏆+Hackathon+Winner+%7C+Top+3+in+Department;📊+Data+Analytics+%26+AI+Enthusiast;🔑+Post-Quantum+Cryptography+Explorer;🎯+TryHackMe+%26+Hack+The+Box+Daily+Player;🌐+Network+Defense+%26+Threat+Detection;🔍+Vulnerability+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=2D9E87&center=true&vCenter=true&width=750&lines=🛡️+Offensive+%26+Defensive+Security+Student;🔐+Penetration+Tester+in+Training;🏆+Hackathon+Winner;📊+Data+Analytics+%26+AI+Enthusiast;🔑+Post-Quantum+Cryptography+Explorer;🎯+TryHackMe+%26+Hack+The+Box+Daily+Player;🌐+Network+Defense+%26+Threat+Detection;🔍+Vulnerability+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
 <p>
   <img src="https://img.shields.io/badge/GPA-95.73%2F100-00D1B2?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top_3-In_Department-FFD700?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Metro_Hackathon-WINNER-7C4DFF?style=for-the-badge&logo=hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/Hackathon-LOVER-FF2D55?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -37,7 +36,7 @@
 | 👤 **Name** | Umud Agayev |
 | 🎓 **University** | UNEC – B.Sc. Information Security (taught in English) |
 | 🏫 **Scholarship** | Holberton School – Cyber Security (Full Scholarship) |
-| 📊 **GPA** | 95.73 / 100 — Top 3 in Department |
+| 📊 **GPA** | 95.73 / 100 |
 | 📝 **Entry Score** | 644.1 / 700 (National University Entrance Exam) |
 | 📍 **Location** | Baku, Azerbaijan 🇦🇿 |
 | 🗣️ **Languages** | Azerbaijani 🇦🇿 · English 🇬🇧 (B2) · Turkish 🇹🇷 · Deutsch 🇩🇪 (A1) |
@@ -71,10 +70,9 @@
 |:---:|:---|:---|
 | 🥉 | **3rd Place** – Baku Metro Hackathon 2026 | Smart Transport AI System |
 | 🎖️ | **Top 11%** – Bakcell Information Security | 200 of 1,800+ applicants |
-| 🏅 | **Scholarship** – Log Academy | On-the-spot cybersecurity award |
 | 🎓 | **Full Scholarship** – Holberton School | Merit-based selection |
 | 🧮 | **National Math Olympiad** Finalist | Republic-level competition |
-| ✅ | **Azerbaijan Cybersecurity Center (AKM)** | Competitive technical selection passed |
+| ✅ | **Azerbaijan Cybersecurity Center (AKM)** | Official training program participant (8th cohort) |
 | 🔐 | **Google Cybersecurity Professional** | 4SIM Initiative |
 
 </div>
@@ -257,4 +255,3 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
-
